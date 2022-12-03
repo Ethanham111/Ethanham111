@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Ethan Hamburg
+- 👋 Hi, my name is Ethan Hamburg
 - 👀 I’m interested in video game development
 - 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: mtlham45@gmail.com 
