@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Ethan Hamburg
 - 🎓 I attend Concordia University: Currently Enrolled in Political Science
-- 🖥️ Currently learning Python, Swift and HTML/CSS
+- 🖥️ Currently learning Python, Swift and Java
 - 🎮 Aspiring Game Dev 
 - 📫 Please reach me at: mtlham45@gmail.com 
 
