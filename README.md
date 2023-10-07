@@ -1,5 +1,5 @@
 - 👋 Hello! My name is Ethan Hamburg
-- 🎓 I attend Concordia University. I am Currently Enrolled in a Batchelor's of Computer Science
+- 🎓 I am a Computer Science major at Concordia University!
 - 🖥️ Currently learning Python, HTML/CSS/JS and Java
 - 🎮 Aspiring Game Dev 
 - 📫 Please reach me at mtlham45@gmail.com 
